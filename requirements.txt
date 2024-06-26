@@ -1,0 +1,10 @@
+python-dotenv==1.0.0
+streamlit==1.22.0
+protobuf~=3.19.0
+langchain
+langchain_community
+InstructorEmbedding
+sentence-transformers==2.2.2
+langchain-google-genai
+faiss-cpu
+pillow
